@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324851275",
+    "project_id": "perfect-dinner-34644",
+    "storage_bucket": "perfect-dinner-34644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324851275:android:a093c61835a55da72cdfce",
+        "android_client_info": {
+          "package_name": "com.example.perfect_dinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324851275-o0qjf5onr2199699psd7fopd3ct5vehs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKRue1YJoEuC0G49Nd6VkGsA6gWEYwxTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324851275-o0qjf5onr2199699psd7fopd3ct5vehs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

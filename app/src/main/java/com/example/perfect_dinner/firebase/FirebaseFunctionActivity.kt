@@ -51,7 +51,7 @@ open class FirebaseFunctionActivity : AppCompatActivity() {
                 val user = FirebaseAuth.getInstance().currentUser
 
                 Toast.makeText(this, "login success", Toast.LENGTH_SHORT).show()
-                Toast.makeText(this, user?.uid, Toast.LENGTH_SHORT).show()
+              //  Toast.makeText(this, user?.uid, Toast.LENGTH_SHORT).show()
                 // ...
             } else {
                 Toast.makeText(this, "failed login try again", Toast.LENGTH_SHORT).show()

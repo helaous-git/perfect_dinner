@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">perfect_dinner</string>
+    <string name="app_name">cooking_bet</string>
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id">3650747681707140</string>
+    <string name="facebook_login_protocol_scheme">fb3650747681707140</string>
+    <!-- Twitter consumer key and secret -->
+    <string name="twitter_consumer_key" translatable="false">flviZAmE8jeMCZETsoVGycDyC</string>
+    <string name="twitter_consumer_secret" translatable="false">0JX97W2SMYr593Bw0rZeArVyxS4x00qJ4IVOWuhIBUWLmzLuot</string>
 </resources>

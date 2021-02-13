@@ -13,7 +13,7 @@
     <!-- <item name="colorPrimaryDark">@android:color/white</item> -->
     </style>
 
-    <style name="LoginTheme" parent="FirebaseUI">
+    <style name="LoginTheme" >
 
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
@@ -30,7 +30,7 @@
 
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
-        <item name="android:windowBackground">@drawable/ic_splash_background</item>
+        <item name="android:windowBackground">@drawable/launch_screen</item>
     </style>
 
     <style name="AppTheme.NoActionBar">

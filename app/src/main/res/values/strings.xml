@@ -6,4 +6,6 @@
     <!-- Twitter consumer key and secret -->
     <string name="twitter_consumer_key" translatable="false">flviZAmE8jeMCZETsoVGycDyC</string>
     <string name="twitter_consumer_secret" translatable="false">0JX97W2SMYr593Bw0rZeArVyxS4x00qJ4IVOWuhIBUWLmzLuot</string>
+    <string name="welcome">welcome</string>
+    <string name="bet_image">Bet image</string>
 </resources>

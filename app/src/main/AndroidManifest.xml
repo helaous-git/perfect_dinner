@@ -13,13 +13,14 @@
         android:theme="@style/AppTheme">
         <activity android:name=".firebase.FirebaseFunctionActivity" />
         <activity
-            android:name=".MainActivity"
+            android:name=".activities.MainActivity"
             android:screenOrientation="portrait">
 
             <!-- android:theme="@style/AppTheme.Launcher" -->
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

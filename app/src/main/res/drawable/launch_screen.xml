@@ -11,8 +11,7 @@
     <item>
 
         <bitmap
-            android:src="@drawable/ic_splash_background"
+            android:src="@drawable/cooking"
             android:gravity="center"/>
-
     </item>
 </layer-list>
